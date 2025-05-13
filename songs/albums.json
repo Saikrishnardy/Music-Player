@@ -1,0 +1,38 @@
+[
+  {
+    "folder": "songs/Angry_(mood)",
+    "title": "Angry Mood",
+    "description": "Songs for when you're angry",
+    "cover": "songs/Angry_(mood)/cover.jpg"
+  },
+  {
+    "folder": "songs/Bright_(mood)",
+    "title": "Bright Mood",
+    "description": "Uplifting and positive vibes",
+    "cover": "songs/Bright_(mood)/cover.jpg"
+  },
+  {
+    "folder": "songs/Chill_(mood)",
+    "title": "Chill Mood",
+    "description": "Relax and unwind",
+    "cover": "songs/Chill_(mood)/cover.jpg"
+  },
+  {
+    "folder": "songs/Dark_(mood)",
+    "title": "Dark Mood",
+    "description": "Deep and moody tracks",
+    "cover": "songs/Dark_(mood)/cover.jpg"
+  },
+  {
+    "folder": "songs/Diljit",
+    "title": "Diljit",
+    "description": "Punjabi hits by Diljit",
+    "cover": "songs/Diljit/cover.jpg"
+  },
+  {
+    "folder": "songs/Funky_(mood)",
+    "title": "Funky Mood",
+    "description": "Get in the groove",
+    "cover": "songs/Funky_(mood)/cover.jpg"
+  }
+]
